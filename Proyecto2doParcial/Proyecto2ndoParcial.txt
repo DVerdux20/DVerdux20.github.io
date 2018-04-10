@@ -1,0 +1,12 @@
+Trabajo final segunda evaluación
+----------------------------------
+Realizar una pagina web con contenido de su interes
+La pagina debera llevar:
+-Un Layout
+-6 hipervinculos minimo
+-Buena variedad de etiquetas HTML
+-Diseño con CSS
+-Subir a github.com para garantizar que sea visiblle atravez de internet
+-Registrarse en github.com y crear un repositorio
+-De 2 personas
+-Fecha de entrega 13/04/18
