@@ -1,7 +1,7 @@
 # DVerdux20.github.io
 Segunda practica del uso de la plataforma GitHub para el desarrollo y prueba de paginas web
 
-<a href="DVerdux20.github.io/PracticaBootstrap/PracticaBootstrap1.html">Primera practica bootstrap</a><br>
+<a href="https://DVerdux20.github.io/PracticaBootstrap/PracticaBootstrap1.html">Primera practica bootstrap</a><br>
 <a href="DVerdux20.github.io/PracticaBootstrap/PracticaBootstrap2.html">Segunda practica bootstrap</a><br>
 <a href="DVerdux20.github.io/PracticaBootstrap/PracticaBootstrap3.html">Tercera practica bootstrap</a><br>
 <a href="DVerdux20.github.io/PracticaBootstrap/PracticaBootstrap4.html">Cuarta practica bootstrap</a><br>
